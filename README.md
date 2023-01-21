@@ -1,2 +1,1 @@
-# rsschool-cv
-RSS CV (сurriculum vitae) - документ, в котором соискатель описывает своё образование и опыт работы.
+https://G7AX.github.io/rsschool-cv/cv
