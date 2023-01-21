@@ -25,4 +25,3 @@ Can walk on water
 [code example `codewars profile`](https://www.codewars.com/users/G7AX/completed_solutions)
 
 English level: can use [google translator](https://www.youtube.com/watch?v=lXkaPhLkDW4&ab_channel=JoshBaldwin "hehe")
-
